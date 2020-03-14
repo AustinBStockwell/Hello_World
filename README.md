@@ -1,6 +1,4 @@
 # I am (not) Austin Stockwell
-Tutorial for using GitHub
-
 My name is Austin Stockwell.  I produce music, fly airplanes, write code, and build things.
 
 Music:
