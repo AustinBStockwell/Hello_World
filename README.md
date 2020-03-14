@@ -16,8 +16,9 @@ Things:
 4) MAX/MSP 32 Step MIDI Sequencer
 5) Financial Databases in MySQL
     - GUIs in Python / C#
-6) Musical Interval Trainer FPGA in Altera Quartus Design Squite
-7) MIDI Controllers in Arduino
+    - BI in Tableau / Grafana
+6) Musical Interval Trainer FPGA Project in Altera Quartus Design Suite
+7) Arduino MIDI controller
 
 Education: 
 1) Purdue University: Computer Engineering Technology (B.S.)
