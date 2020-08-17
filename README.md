@@ -1,26 +1,23 @@
 # I am (not) Austin Stockwell
-My name is Austin Stockwell.  I produce music, fly airplanes, write code, and build things.
+My name is Austin Stockwell.  I build technology projects, fly airplanes, and produce music.  
 
-Music:
-1) PseudoSpace Music
+Technology Projects:
+1) Rep Rap REWORK i3 3D Printer
+2) Arduino MIDI controller
+3) MAX/MSP 32 Step MIDI Sequencer
+4) Financial Databases in MySQL
+    - GUIs in Python / C#
+    - BI in Tableau / Grafana
+5) Musical Interval Trainer FPGA Project in Altera Quartus Design Suite
+6) Personal Portfolio Website 
 
 Flying:
 1) Commercial Pilot (S.E.L. & M.E.L)
 2) Certified Flight Instructor
 3) Certified Advanced Ground Instructor
 
-Things:
-1) Modified Printrbot Simple 3D Printer
-2) Rep Rap REWORK i3 3D Printer
-3) Arduino + MAX/MSP MIDI valve actuator
-4) MAX/MSP 32 Step MIDI Sequencer
-5) Financial Databases in MySQL
-    - GUIs in Python / C#
-    - BI in Tableau / Grafana
-6) Musical Interval Trainer FPGA Project in Altera Quartus Design Suite
-7) Arduino MIDI controller
+Music:
+1) PseudoSpace Music
 
 Education: 
 1) Purdue University: Computer Engineering Technology (B.S.)
-
-
