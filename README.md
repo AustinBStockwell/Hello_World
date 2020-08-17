@@ -11,13 +11,16 @@ Technology Projects:
 5) Musical Interval Trainer FPGA Project in Altera Quartus Design Suite
 6) Personal Portfolio Website 
 
+
 Flying:
 1) Commercial Pilot (S.E.L. & M.E.L)
 2) Certified Flight Instructor
 3) Certified Advanced Ground Instructor
 
+
 Music:
 1) PseudoSpace Music
+
 
 Education: 
 1) Purdue University: Computer Engineering Technology (B.S.)
