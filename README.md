@@ -13,10 +13,9 @@ Technology Projects:
 
 
 Flying:
-1) Commercial Pilot (S.E.L. & M.E.L)
-2) Certified Flight Instructor
-3) Instrument Rating
-4) Advanced Ground Instructor -- Instrument
+1) Airline Pilot Certificate
+2) Airbus A220 Type Rating
+3) Certified Flight Instructor
 
 
 Music:
